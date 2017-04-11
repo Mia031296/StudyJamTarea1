@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Wattpad</string>
+    <string name="gato">o</string>
+    <string name="face">Facebook</string>
+    <string name="email">E-mail</string>
+    <string name="nombre">Nombre de usuario</string>
+    <string name="password">Contraseña</string>
+    <string name="reg">Registrarse</string>
+    <string name="textt">¿Aún no tienes una cuenta? \nRegístrate</string>
+</resources>
